@@ -2,16 +2,8 @@ I've paid my dues
 Time after time
 I've done my sentence
 But committed no crime
-<<<<<<< HEAD
 And bad mistakes
 I've made a few
 I've had my share of sand
-<<<<<<< HEAD
 Kicked in my face
-dsadsad
-asdass
-=======
->>>>>>> parent of f1579dc... add two more lines
-=======
-Kicked in my face
->>>>>>> a6912dcfc01a1df8833b0cbe41bb9ff3bb5bcddd
+
